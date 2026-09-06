@@ -1,0 +1,10 @@
+{
+  "accept": "*/*",
+  "accept-language": "bn,en-US;q=0.9,en;q=0.8,la;q=0.7,ta;q=0.6,da;q=0.5",
+  "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxMDQxODAsImlhdCI6MTc4ODcwMzQxOCwiZXhwIjoxNzkxMjk1NDE4fQ.qUISgGcAVXqf_zGDBddikRlKO1Dqzq3vLNCZJQgB3I0",
+  "cookie": "_ga=GA1.1.1850536315.1788701610; _fbp=fb.1.1788701610789.734863430362502202; p2a_aff_vid=851fffa40d3e4172912882d4c7239de6; cf_clearance=ov2Miz.KAvNPz71P4B4T90pJFlV8SxxG2uz1lyUcFpI-1788703401-1.2.1.1-AUxnfw5eU.DZiBjYnKWDT7bNNTIwhQNpphWOufkZveIRjXk0umeLtVxZyFSYHS5WrBSldS6AUTmmCDvDAtxiuZY.WpLxNls1XwQb9qb0IfJMT4HOeF6aOIIk.sqG.S1nQqc40MyXK5rCBZvTL04T98mYbGix1gyOoejOuKLVM4tDtY4jV_114JxzDkXtY7MNFo3lqA_ZgDv3Xy7bpzbSJJFfzQ79WAFfs1wpBQtz9eoRVy8XZj3Ex5wQEfQOignNQgrpHvV0sjNSDafVwqWf35WCowLNIlZJ0st_O5D9qOkbR8EWgyG4w8ve9sJ9MYIuK1C09GbUPccZMunuAi9IeZ_teDUA5xq178a4_2SCn_E; token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxMDQxODAsImlhdCI6MTc4ODcwMzQxOCwiZXhwIjoxNzkxMjk1NDE4fQ.qUISgGcAVXqf_zGDBddikRlKO1Dqzq3vLNCZJQgB3I0; _ga_RSNC1EG99G=GS2.1.s1788701609$o1$g1$t1788703574$j34$l0$h0",
+  "referer": "https://p2a.academy/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+  "x-app-key": "p2a-app-key-cfd8a42a9f527b8b13c9bfe6d8e12af06f1c2b781e3d44b0a5d9f6b7e2c47f1",
+  "x-secret-token": "p2a-secret-token-e1d4fa9c38c7b4e1f93fd781a2f84b6de9c3a5b7fe21d98c4fb7d32ea6a1f52f9b34c2"
+}

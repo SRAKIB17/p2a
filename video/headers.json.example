@@ -1,0 +1,6 @@
+{
+  "authorization": "Bearer <YOUR_TOKEN_HERE>",
+  "cookie": "<YOUR_COOKIE_HERE>",
+  "x-app-key": "p2a-app-key-cfd8a42a9f527b8b13c9bfe6d8e12af06f1c2b781e3d44b0a5d9f6b7e2c47f1",
+  "x-secret-token": "p2a-secret-token-e1d4fa9c38c7b4e1f93fd781a2f84b6de9c3a5b7fe21d98c4fb7d32ea6a1f52f9b34c2"
+}
