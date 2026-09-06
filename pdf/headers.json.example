@@ -1,0 +1,4 @@
+{
+  "Authorization": "Bearer YOUR_BEARER_TOKEN_HERE",
+  "Cookie": "YOUR_COOKIE_STRING_HERE"
+}

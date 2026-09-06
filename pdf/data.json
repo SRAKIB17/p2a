@@ -1,0 +1,166 @@
+{
+  "id": 3193,
+  "title": "PDF",
+  "subtitle": null,
+  "image": null,
+  "slug": "pdf",
+  "active": true,
+  "order": 3,
+  "sections": [],
+  "contents": [
+    {
+      "id": 49994,
+      "title": "জব ম্যাথ প্রস্তুতির A to Z Guideline",
+      "slug": "jb-mzath-prstutir-a-to-z-guideline-9",
+      "type": "pdf",
+      "available_from": "2024-11-04 11:19:13",
+      "paid": true,
+      "active": true,
+      "order": 1,
+      "contents": []
+    },
+    {
+      "id": 72624,
+      "title": "BCS Preli & Written Syllabus Analysis",
+      "slug": "bcs-preli-written-syllabus-analysis-1",
+      "type": "pdf",
+      "available_from": "2025-03-15 23:36:09",
+      "paid": true,
+      "active": true,
+      "order": 1,
+      "contents": []
+    },
+    {
+      "id": 75067,
+      "title": "Foundation Course Free Class: শতকরা-১",
+      "slug": "foundation-course-free-class-stkra-1-1",
+      "type": "pdf",
+      "available_from": "2025-03-22 21:30:20",
+      "paid": true,
+      "active": true,
+      "order": 1,
+      "contents": []
+    },
+    {
+      "id": 76022,
+      "title": "Foundation Course Free Class: শতকরা-২",
+      "slug": "foundation-course-free-class-stkra-2-1",
+      "type": "pdf",
+      "available_from": "2025-04-05 22:01:36",
+      "paid": true,
+      "active": true,
+      "order": 1,
+      "contents": []
+    },
+    {
+      "id": 49995,
+      "title": "Lecture-01: দশমিক সংখ্যা পদ্ধতি ও ভগ্নাংশ (Part-01)",
+      "slug": "lecture-1-dsmik-sngkhza-pddhti-oo-vgnangs-part-01-9",
+      "type": "pdf",
+      "available_from": "2024-11-04 11:19:00",
+      "paid": true,
+      "active": true,
+      "order": 2,
+      "contents": []
+    },
+    {
+      "id": 49996,
+      "title": "Lecture-02: দশমিক সংখ্যা পদ্ধতি ও ভগ্নাংশ (Part-02)",
+      "slug": "lecture-2-dsmik-sngkhza-pddhti-oo-vgnangs-part-02-9",
+      "type": "pdf",
+      "available_from": "2024-11-04 11:19:00",
+      "paid": true,
+      "active": true,
+      "order": 3,
+      "contents": []
+    },
+    {
+      "id": 49997,
+      "title": "Lecture-03: বর্গ ও বর্গমূল নির্ণয় (Part-01)",
+      "slug": "lecture-3-brg-oo-brgmuul-nirny-part-01-1",
+      "type": "pdf",
+      "available_from": "2024-11-04 11:19:00",
+      "paid": true,
+      "active": true,
+      "order": 4,
+      "contents": []
+    },
+    {
+      "id": 49998,
+      "title": "Lecture-04: বর্গ ও বর্গমূল নির্ণয় (Part-02)",
+      "slug": "lecture-4-brg-oo-brgmuul-nirny-part-02-1",
+      "type": "pdf",
+      "available_from": "2024-11-04 11:19:00",
+      "paid": true,
+      "active": true,
+      "order": 5,
+      "contents": []
+    },
+    {
+      "id": 50049,
+      "title": "Lecture-05: বাস্তব সংখ্যা (Part-01)",
+      "slug": "lecture-5-bastb-sngkhza-part-01-8",
+      "type": "pdf",
+      "available_from": "2024-11-06 10:14:00",
+      "paid": true,
+      "active": true,
+      "order": 6,
+      "contents": []
+    },
+    {
+      "id": 56471,
+      "title": "Lecture-06: বাস্তব সংখ্যা (Part-02)",
+      "slug": "lecture-6-bastb-sngkhza-part-02-14",
+      "type": "pdf",
+      "available_from": "2024-11-23 23:25:00",
+      "paid": true,
+      "active": true,
+      "order": 7,
+      "contents": []
+    },
+    {
+      "id": 57849,
+      "title": "Lecture-07: বাস্তব সংখ্যা (Part-03)",
+      "slug": "lecture-7-bastb-sngkhza-part-03-15",
+      "type": "pdf",
+      "available_from": "2024-12-05 23:27:00",
+      "paid": true,
+      "active": true,
+      "order": 8,
+      "contents": []
+    },
+    {
+      "id": 60014,
+      "title": "Lecture-08: লসাগু ও গসাগু (Part-01)",
+      "slug": "lecture-8-lsagu-oo-gsagu-part-01-21",
+      "type": "pdf",
+      "available_from": "2024-12-15 22:15:00",
+      "paid": true,
+      "active": true,
+      "order": 9,
+      "contents": []
+    },
+    {
+      "id": 60015,
+      "title": "Lecture-09: লসাগু ও গসাগু (Part-02)",
+      "slug": "lecture-9-lsagu-oo-gsagu-part-02-21",
+      "type": "pdf",
+      "available_from": "2024-12-15 22:15:00",
+      "paid": true,
+      "active": true,
+      "order": 10,
+      "contents": []
+    },
+    {
+      "id": 60016,
+      "title": "Lecture-10: শতকরা (Basic)",
+      "slug": "lecture-10-stkra-basic-1",
+      "type": "pdf",
+      "available_from": "2024-12-15 22:15:30",
+      "paid": true,
+      "active": true,
+      "order": 11,
+      "contents": []
+    }
+  ]
+}

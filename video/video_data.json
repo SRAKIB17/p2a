@@ -1,0 +1,166 @@
+{
+  "id": 16200,
+  "title": "Video Class",
+  "subtitle": null,
+  "image": null,
+  "slug": "video-class-143",
+  "active": true,
+  "order": 1,
+  "sections": [],
+  "contents": [
+    {
+      "id": 211981,
+      "title": "Lecture-01: Percentage-1",
+      "slug": "bank-math-graduation-lecture-01-percentage-1",
+      "type": "video",
+      "available_from": "2026-07-28 05:42:00",
+      "paid": true,
+      "active": true,
+      "order": 1,
+      "contents": []
+    },
+    {
+      "id": 211980,
+      "title": "Lecture-02: Percentage-2",
+      "slug": "bank-math-graduation-lecture-02-percentage-2",
+      "type": "video",
+      "available_from": "2026-07-28 05:42:00",
+      "paid": true,
+      "active": true,
+      "order": 2,
+      "contents": []
+    },
+    {
+      "id": 211979,
+      "title": "Lecture-03: Percentage-3",
+      "slug": "bank-math-graduation-lecture-03-percentage-3",
+      "type": "video",
+      "available_from": "2026-07-28 05:42:00",
+      "paid": true,
+      "active": true,
+      "order": 3,
+      "contents": []
+    },
+    {
+      "id": 211978,
+      "title": "Lecture-04: Percentage-4",
+      "slug": "bank-math-graduation-lecture-04-percentage-4",
+      "type": "video",
+      "available_from": "2026-07-28 05:42:00",
+      "paid": true,
+      "active": true,
+      "order": 4,
+      "contents": []
+    },
+    {
+      "id": 211977,
+      "title": "Lecture-05: Percentage-5",
+      "slug": "bank-math-graduation-lecture-05-percentage-5",
+      "type": "video",
+      "available_from": "2026-07-28 05:42:00",
+      "paid": true,
+      "active": true,
+      "order": 5,
+      "contents": []
+    },
+    {
+      "id": 211976,
+      "title": "Lecture-06: Percentage-6",
+      "slug": "bank-math-graduation-lecture-06-percentage-6",
+      "type": "video",
+      "available_from": "2026-07-28 05:42:00",
+      "paid": true,
+      "active": true,
+      "order": 6,
+      "contents": []
+    },
+    {
+      "id": 211975,
+      "title": "Lecture-07: Percentage-7",
+      "slug": "bank-math-graduation-lecture-07-percentage-7",
+      "type": "video",
+      "available_from": "2026-07-28 05:42:00",
+      "paid": true,
+      "active": true,
+      "order": 7,
+      "contents": []
+    },
+    {
+      "id": 212164,
+      "title": "Lecture-08: Profit & Loss-1",
+      "slug": "bank-math-graduation-lecture-08-profit-loss-1",
+      "type": "video",
+      "available_from": "2026-07-30 19:29:00",
+      "paid": true,
+      "active": true,
+      "order": 8,
+      "contents": []
+    },
+    {
+      "id": 222600,
+      "title": "Lecture-09: Profit & Loss-2",
+      "slug": "bank-math-graduation-lecture-09-profit-loss-2-1",
+      "type": "video",
+      "available_from": "2026-08-14 13:08:00",
+      "paid": true,
+      "active": true,
+      "order": 9,
+      "contents": []
+    },
+    {
+      "id": 222601,
+      "title": "Lecture-10: Profit & Loss-3",
+      "slug": "bank-math-graduation-lecture-10-profit-loss-3-3",
+      "type": "video",
+      "available_from": "2026-08-14 13:08:00",
+      "paid": true,
+      "active": true,
+      "order": 10,
+      "contents": []
+    },
+    {
+      "id": 233150,
+      "title": "Lecture-11: Profit & Loss-04",
+      "slug": "bank-math-graduation-lecture-11-profit-loss-04",
+      "type": "video",
+      "available_from": "2026-09-05 09:58:00",
+      "paid": true,
+      "active": true,
+      "order": 11,
+      "contents": []
+    },
+    {
+      "id": 233151,
+      "title": "Lecture-12: Profit & Loss-05",
+      "slug": "bank-math-graduation-lecture-12-profit-loss-05",
+      "type": "video",
+      "available_from": "2026-09-05 09:58:00",
+      "paid": true,
+      "active": true,
+      "order": 12,
+      "contents": []
+    },
+    {
+      "id": 233152,
+      "title": "Lecture-13: Profit & Loss-06",
+      "slug": "bank-math-graduation-lecture-13-profit-loss-06",
+      "type": "video",
+      "available_from": "2026-09-05 09:58:00",
+      "paid": true,
+      "active": true,
+      "order": 13,
+      "contents": []
+    },
+    {
+      "id": 233153,
+      "title": "Lecture-14: Profit & Loss (Questions)",
+      "slug": "bank-math-graduation-lecture-14-profit-loss-questions",
+      "type": "video",
+      "available_from": "2026-09-05 09:58:00",
+      "paid": true,
+      "active": true,
+      "order": 14,
+      "contents": []
+    }
+  ]
+}
