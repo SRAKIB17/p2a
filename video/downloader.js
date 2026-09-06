@@ -55,6 +55,20 @@ async function fetchContentDetails(slug, headers) {
     }
 }
 
+function findFfmpeg() {
+    const candidates = [
+        path.join(__dirname, 'ffmpeg.exe'),
+        path.join(__dirname, '.venv', 'Scripts', 'ffmpeg.exe'),
+        path.join(process.env.LOCALAPPDATA || '', 'Microsoft', 'WinGet', 'Packages', 'yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe', 'ffmpeg-N-125875-g5d4d3bdc61-win64-gpl', 'bin', 'ffmpeg.exe')
+    ];
+    for (const c of candidates) {
+        if (fs.existsSync(c)) {
+            return path.dirname(c);
+        }
+    }
+    return null;
+}
+
 function runYtDlp(videoUrl, outputTemplate) {
     return new Promise((resolve) => {
         const venvYtDlp = path.join(__dirname, '.venv', 'Scripts', 'yt-dlp.exe');
@@ -65,9 +79,15 @@ function runYtDlp(videoUrl, outputTemplate) {
             '--merge-output-format', 'mp4',
             '--no-warnings',
             '--js-runtimes', 'node',
-            '-o', outputTemplate,
-            videoUrl
+            '-o', outputTemplate
         ];
+
+        const ffmpegDir = findFfmpeg();
+        if (ffmpegDir) {
+            args.push('--ffmpeg-location', ffmpegDir);
+        }
+
+        args.push(videoUrl);
 
         const proc = spawn(cmd, args, { stdio: 'inherit' });
         proc.on('close', (code) => {

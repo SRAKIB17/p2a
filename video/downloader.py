@@ -33,13 +33,17 @@ def sanitize_filename(name: str) -> str:
 
 def find_ffmpeg() -> str | None:
     """FFmpeg এর লোকেশন শনাক্ত করে।"""
-    # 1. System PATH
+    # 1. System PATH or Project root
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    local_ffmpeg = os.path.join(script_dir, "ffmpeg.exe")
+    if os.path.exists(local_ffmpeg):
+        return local_ffmpeg
+
     ffmpeg_in_path = shutil.which("ffmpeg")
     if ffmpeg_in_path:
         return ffmpeg_in_path
 
     # 2. Virtual environment Scripts
-    script_dir = os.path.dirname(os.path.abspath(__file__))
     venv_ffmpeg = os.path.join(script_dir, ".venv", "Scripts", "ffmpeg.exe")
     if os.path.exists(venv_ffmpeg):
         return venv_ffmpeg
